@@ -8,7 +8,7 @@
 	   fetch="git://github.com/OMFGB" />
 
   <remote  name="OMN1GB"
-           fetch="git://github.com/OMN1GB" />
+           fetch="git://github.com/omN1gb" />
 
   <remote  name="cm"
            fetch="git://github.com/CyanogenMod/" />
