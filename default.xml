@@ -34,8 +34,8 @@
   <project path="device/htc/common" name="device_htc_common" remote="origin" revision="master"/>
   <project path="device/htc/inc" name="device_htc_inc" remote="origin" revision="master"/>
   <project path="device/htc/mecha" name="device_htc_mecha" remote="origin" revision="master"/>
-  <project path="device/htc/passion" name="device_htc_passion" remote="OMN1GB" revision="master"/>
-  <project path="device/htc/passion-common" name="device_htc_passion-common" remote="OMN1GB" revision="master"/>
+  <project path="device/htc/passion" name="device_htc_passion" remote="OMN1GB" revision="gingerbread"/>
+  <project path="device/htc/passion-common" name="device_htc_passion-common" remote="OMN1GB" revision="gingerbread"/>
   <project path="device/motorola/sholes" name="device_motorola_sholes" remote="origin" revision="master"/>
   <project path="device/motorola/shadow" name="device_motorola_shadow" remote="origin" revision="master"/>
   <project path="device/motorola/common" name="device_motorola_common" remote="origin" revision="gingerbread"/>  
